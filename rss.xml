@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Ptujinfo - Zadnje novice</title>
     <link>https://alenhodnik.github.io/ptujinfo-rss/rss.xml</link>
@@ -7,285 +7,328 @@
     <atom:link href="https://alenhodnik.github.io/ptujinfo-rss/rss.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
+    <image>
+      <url>https://ptujinfo.com/themes/custom/infotheme/images/favicons/ptuj.png</url>
+      <title>Ptujinfo - Zadnje novice</title>
+      <link>https://alenhodnik.github.io/ptujinfo-rss/rss.xml</link>
+    </image>
     <language>sl</language>
     <ttl>10</ttl>
     <item>
       <title>Konec brezplačnega reševanja v gorah? Pohodnike bi lahko doleteli visoki računi</title>
       <link>https://ptujinfo.com/novica/slovenija/konec-brezplacnega-resevanja-v-gorah-pohodnike-bi-lahko-doleteli-visoki-racuni/460331</link>
-      <description>&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/25/IMG_4662_2_1.jpg?h=8f9cfe54" /&gt;&lt;p&gt;Konec brezplačnega reševanja v gorah? Pohodnike bi lahko doleteli visoki računi&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/slovenija/konec-brezplacnega-resevanja-v-gorah-pohodnike-bi-lahko-doleteli-visoki-racuni/460331"&gt;Preberi celotno novico&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/25/IMG_4662_2_1.jpg?h=8f9cfe54" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;Obrambno ministrstvo predlaga obvezno zavarovanje za zahtevne planinske dejavnosti. Brez police bi posameznik sam pokrival predpisani delež stroškov reševanja, ki so samo za helikopterski del znašali povprečno 800.000 evrov letno.&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/slovenija/konec-brezplacnega-resevanja-v-gorah-pohodnike-bi-lahko-doleteli-visoki-racuni/460331"&gt;Preberi celotno novico na Ptujinfo&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://ptujinfo.com/novica/slovenija/konec-brezplacnega-resevanja-v-gorah-pohodnike-bi-lahko-doleteli-visoki-racuni/460331</guid>
       <category>slovenija</category>
+      <pubDate>Wed, 25 Nov 2026 16:11:49 +0100</pubDate>
+      <dc:creator>Jure Šujica</dc:creator>
     </item>
     <item>
       <title>Ptuj pripravljen na sneg? Na zalogi 150 ton soli, na teren lahko pošljejo 26 plužnih enot</title>
       <link>https://ptujinfo.com/novica/lokalno/ptuj-pripravljen-na-sneg-na-zalogi-150-ton-soli-na-teren-lahko-posljejo-26-pluznih-enot/460267</link>
-      <description>&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/25/fotoemotions-snow-plowing-1963016_1280.jpg?h=c673cd1c" /&gt;&lt;p&gt;Ptuj pripravljen na sneg? Na zalogi 150 ton soli, na teren lahko pošljejo 26 plužnih enot&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/lokalno/ptuj-pripravljen-na-sneg-na-zalogi-150-ton-soli-na-teren-lahko-posljejo-26-pluznih-enot/460267"&gt;Preberi celotno novico&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/25/fotoemotions-snow-plowing-1963016_1280.jpg?h=c673cd1c" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;Ob napovedih sneženja tudi po nižinah je ptujska zimska služba v polni pripravljenosti. Za izvajanje zimske službe je letos predvidenih 300.000 evrov, tudi letos pa bodo nekaterim občanom brezplačno očistili dovoze.&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/lokalno/ptuj-pripravljen-na-sneg-na-zalogi-150-ton-soli-na-teren-lahko-posljejo-26-pluznih-enot/460267"&gt;Preberi celotno novico na Ptujinfo&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://ptujinfo.com/novica/lokalno/ptuj-pripravljen-na-sneg-na-zalogi-150-ton-soli-na-teren-lahko-posljejo-26-pluznih-enot/460267</guid>
       <category>lokalno</category>
+      <pubDate>Wed, 25 Nov 2026 15:00:35 +0100</pubDate>
+      <dc:creator>Nina Držaj</dc:creator>
     </item>
     <item>
       <title>Zakaj so pri novem križišču na Ptuju napeli zaščitne trakove? Imamo odgovor</title>
       <link>https://ptujinfo.com/novica/lokalno/zakaj-so-pri-novem-kriziscu-na-ptuju-napeli-zascitne-trakove-imamo-odgovor/460290</link>
-      <description>&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/25/f250047c-34a3-420e-b98e-24dc709f0071.jpg?h=4521fff0" /&gt;&lt;p&gt;Zakaj so pri novem križišču na Ptuju napeli zaščitne trakove? Imamo odgovor&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/lokalno/zakaj-so-pri-novem-kriziscu-na-ptuju-napeli-zascitne-trakove-imamo-odgovor/460290"&gt;Preberi celotno novico&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/25/f250047c-34a3-420e-b98e-24dc709f0071.jpg?h=4521fff0" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;Ob novem križišču pri Upravni enoti Ptuj so del območja začasno zavarovali s trakovi. Preverili smo, zakaj.&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/lokalno/zakaj-so-pri-novem-kriziscu-na-ptuju-napeli-zascitne-trakove-imamo-odgovor/460290"&gt;Preberi celotno novico na Ptujinfo&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://ptujinfo.com/novica/lokalno/zakaj-so-pri-novem-kriziscu-na-ptuju-napeli-zascitne-trakove-imamo-odgovor/460290</guid>
       <category>lokalno</category>
+      <pubDate>Wed, 25 Nov 2026 14:03:25 +0100</pubDate>
+      <dc:creator>Nina Držaj</dc:creator>
     </item>
     <item>
       <title>VIDEO: V Renkovce na gibanico prihajajo tudi iz tujine. Ste že poskusili tisto z jurko?</title>
       <link>https://ptujinfo.com/novica/lokalno/video-v-renkovce-na-gibanico-prihajajo-tudi-iz-tujine-ste-ze-poskusili-tisto-z-jurko/460284</link>
-      <description>&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/25/P1205190.JPG?h=790be497" /&gt;&lt;p&gt;VIDEO: V Renkovce na gibanico prihajajo tudi iz tujine. Ste že poskusili tisto z jurko?&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/lokalno/video-v-renkovce-na-gibanico-prihajajo-tudi-iz-tujine-ste-ze-poskusili-tisto-z-jurko/460284"&gt;Preberi celotno novico&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/25/P1205190.JPG?h=790be497" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;VIDEO: V Renkovce na gibanico prihajajo tudi iz tujine. Ste že poskusili tisto z jurko?&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/lokalno/video-v-renkovce-na-gibanico-prihajajo-tudi-iz-tujine-ste-ze-poskusili-tisto-z-jurko/460284"&gt;Preberi celotno novico na Ptujinfo&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://ptujinfo.com/novica/lokalno/video-v-renkovce-na-gibanico-prihajajo-tudi-iz-tujine-ste-ze-poskusili-tisto-z-jurko/460284</guid>
       <category>lokalno</category>
+      <pubDate>Wed, 25 Nov 2026 13:48:03 +0100</pubDate>
+      <dc:creator>Ptujinfo</dc:creator>
     </item>
     <item>
       <title>Na Ptuju predčasno glasoval še Janko Širec, volišče odprto tudi v četrtek</title>
       <link>https://ptujinfo.com/novica/politika/na-ptuju-predcasno-glasoval-se-janko-sirec-volisce-odprto-tudi-v-cetrtek/460261</link>
-      <description>&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/25/4aad74a1-9839-43e5-a234-0e9c534faf55.jpg?h=8030b192" /&gt;&lt;p&gt;Na Ptuju predčasno glasoval še Janko Širec, volišče odprto tudi v četrtek&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/politika/na-ptuju-predcasno-glasoval-se-janko-sirec-volisce-odprto-tudi-v-cetrtek/460261"&gt;Preberi celotno novico&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/25/4aad74a1-9839-43e5-a234-0e9c534faf55.jpg?h=8030b192" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;Pred nedeljskim drugim krogom županskih volitev sta na Ptuju predčasno glasovala že oba kandidata. Volivci lahko svoj glas oddajo še danes in jutri.&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/politika/na-ptuju-predcasno-glasoval-se-janko-sirec-volisce-odprto-tudi-v-cetrtek/460261"&gt;Preberi celotno novico na Ptujinfo&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://ptujinfo.com/novica/politika/na-ptuju-predcasno-glasoval-se-janko-sirec-volisce-odprto-tudi-v-cetrtek/460261</guid>
       <category>politika</category>
+      <pubDate>Wed, 25 Nov 2026 12:38:45 +0100</pubDate>
+      <dc:creator>Nina Držaj</dc:creator>
     </item>
     <item>
       <title>Desetminutne seje, prazni lokali in zamujene investicije: Kaj odgovarjata Gajšek in Širec?</title>
       <link>https://ptujinfo.com/novica/politika/desetminutne-seje-prazni-lokali-zamujene-investicije-kaj-odgovarjata-gajsek-sirec/460236</link>
-      <description>&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/25/MVZ_0865.jpg?h=3e43625b" /&gt;&lt;p&gt;Desetminutne seje, prazni lokali in zamujene investicije: Kaj odgovarjata Gajšek in Širec?&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/politika/desetminutne-seje-prazni-lokali-zamujene-investicije-kaj-odgovarjata-gajsek-sirec/460236"&gt;Preberi celotno novico&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/25/MVZ_0865.jpg?h=3e43625b" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;Na velikem skupnem medijskem soočenju sta Nuška Gajšek in Janko Širec soočila poglede na vodenje občine, transparentnost odločanja in gospodarski razvoj Ptuja. Razhajala sta se predvsem pri načinu dela in učinkovitosti dosedanjega vodenja občine.&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/politika/desetminutne-seje-prazni-lokali-zamujene-investicije-kaj-odgovarjata-gajsek-sirec/460236"&gt;Preberi celotno novico na Ptujinfo&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://ptujinfo.com/novica/politika/desetminutne-seje-prazni-lokali-zamujene-investicije-kaj-odgovarjata-gajsek-sirec/460236</guid>
       <category>politika</category>
+      <pubDate>Wed, 25 Nov 2026 12:29:57 +0100</pubDate>
+      <dc:creator>Nina Držaj</dc:creator>
     </item>
     <item>
       <title>Vlomilci v Gorišnici skozi okno vstopili v hišo in ukradli denar ter zlatnino</title>
       <link>https://ptujinfo.com/novica/kronika/vlomilci-v-gorisnici-skozi-okno-vstopili-v-hiso-ukradli-denar-ter-zlatnino/460238</link>
-      <description>&lt;img src="https://ptujinfo.com/s3/files/styles/768x440/public/slike/naslovne/2026/11/25/burglar-1678883_1280.jpg?h=1c9b88c9" /&gt;&lt;p&gt;Vlomilci v Gorišnici skozi okno vstopili v hišo in ukradli denar ter zlatnino&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/kronika/vlomilci-v-gorisnici-skozi-okno-vstopili-v-hiso-ukradli-denar-ter-zlatnino/460238"&gt;Preberi celotno novico&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/25/burglar-1678883_1280.jpg?h=1c9b88c9" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;Mariborski policisti so v zadnjih 24 urah obravnavali več kaznivih dejanj, med drugim vlom v stanovanjsko hišo v okolici Gorišnice in tri spletne goljufije. Med prometnim nadzorom so zasegli tudi tehnično neustrezen moped.&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/kronika/vlomilci-v-gorisnici-skozi-okno-vstopili-v-hiso-ukradli-denar-ter-zlatnino/460238"&gt;Preberi celotno novico na Ptujinfo&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://ptujinfo.com/novica/kronika/vlomilci-v-gorisnici-skozi-okno-vstopili-v-hiso-ukradli-denar-ter-zlatnino/460238</guid>
       <category>kronika</category>
+      <pubDate>Wed, 25 Nov 2026 11:29:53 +0100</pubDate>
+      <dc:creator>Ptujinfo</dc:creator>
     </item>
     <item>
       <title>Vinograd v Cirkulanah pomaga štipendirati štiri mlade iz Haloz</title>
       <link>https://ptujinfo.com/novica/lokalno/vinograd-v-cirkulanah-pomaga-stipendirati-stiri-mlade-iz-haloz/460229</link>
-      <description>&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/25/Podpis%20pogodbe%20%C5%A1tipendija%2026-3.jpg?h=1116cd87" /&gt;&lt;p&gt;Vinograd v Cirkulanah pomaga štipendirati štiri mlade iz Haloz&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/lokalno/vinograd-v-cirkulanah-pomaga-stipendirati-stiri-mlade-iz-haloz/460229"&gt;Preberi celotno novico&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/25/Podpis%20pogodbe%20%C5%A1tipendija%2026-3.jpg?h=1116cd87" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;Lions klub Ptuj bo v sodelovanju z Društvom vinogradnikov in sadjarjev Haloz s štipendijami podprl tri dijake in študenta, ki svojo prihodnost povezujejo s kmetijstvom.&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/lokalno/vinograd-v-cirkulanah-pomaga-stipendirati-stiri-mlade-iz-haloz/460229"&gt;Preberi celotno novico na Ptujinfo&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://ptujinfo.com/novica/lokalno/vinograd-v-cirkulanah-pomaga-stipendirati-stiri-mlade-iz-haloz/460229</guid>
       <category>lokalno</category>
+      <pubDate>Wed, 25 Nov 2026 11:20:33 +0100</pubDate>
+      <dc:creator>Nina Držaj</dc:creator>
     </item>
     <item>
       <title>Vozniki, pozor! Štajerska avtocesta zaradi prometne nesreče zaprta v obe smeri</title>
       <link>https://ptujinfo.com/novica/kronika/vozniki-pozor-stajerska-avtocesta-zaradi-prometne-nesrece-zaprta-v-obe-smeri/460222</link>
-      <description>&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/25/932058782_1484863800491181_4593412078687964101_n_0.jpg?h=a6055037" /&gt;&lt;p&gt;Vozniki, pozor! Štajerska avtocesta zaradi prometne nesreče zaprta v obe smeri&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/kronika/vozniki-pozor-stajerska-avtocesta-zaradi-prometne-nesrece-zaprta-v-obe-smeri/460222"&gt;Preberi celotno novico&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/25/932058782_1484863800491181_4593412078687964101_n_0.jpg?h=a6055037" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;Zaradi prometne nesreče je štajerska avtocesta med Slovenskimi Konjicami in Dramljami zaprta v obe smeri. Prometno-informacijski center voznikom priporoča obvoz po regionalni cesti.&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/kronika/vozniki-pozor-stajerska-avtocesta-zaradi-prometne-nesrece-zaprta-v-obe-smeri/460222"&gt;Preberi celotno novico na Ptujinfo&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://ptujinfo.com/novica/kronika/vozniki-pozor-stajerska-avtocesta-zaradi-prometne-nesrece-zaprta-v-obe-smeri/460222</guid>
       <category>kronika</category>
+      <pubDate>Wed, 25 Nov 2026 11:00:06 +0100</pubDate>
+      <dc:creator>Ptujinfo</dc:creator>
     </item>
     <item>
       <title>FOTO in VIDEO: Ne samo metle, tudi »lučke, lučke« se sliši na Ptuju, Katarinin sejem kljub mrazu privabil množico</title>
       <link>https://ptujinfo.com/novica/lokalno/foto-video-ne-samo-metle-tudi-lucke-lucke-se-slisi-na-ptuju-katarinin-sejem-kljub-mrazu-privabil-mnozico/460207</link>
-      <description>&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/25/image4.jpeg?h=80ee4936" /&gt;&lt;p&gt;FOTO in VIDEO: Ne samo metle, tudi »lučke, lučke« se sliši na Ptuju, Katarinin sejem kljub mrazu privabil množico&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/lokalno/foto-video-ne-samo-metle-tudi-lucke-lucke-se-slisi-na-ptuju-katarinin-sejem-kljub-mrazu-privabil-mnozico/460207"&gt;Preberi celotno novico&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/25/image4.jpeg?h=80ee4936" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;Ptujsko mestno jedro je danes polno obiskovalcev. Na stojnicah ponujajo vse od suhe robe in zaves do adventnih venčkov in prazničnih lučk.&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/lokalno/foto-video-ne-samo-metle-tudi-lucke-lucke-se-slisi-na-ptuju-katarinin-sejem-kljub-mrazu-privabil-mnozico/460207"&gt;Preberi celotno novico na Ptujinfo&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://ptujinfo.com/novica/lokalno/foto-video-ne-samo-metle-tudi-lucke-lucke-se-slisi-na-ptuju-katarinin-sejem-kljub-mrazu-privabil-mnozico/460207</guid>
       <category>lokalno</category>
+      <pubDate>Wed, 25 Nov 2026 10:29:27 +0100</pubDate>
+      <dc:creator>Ptujinfo</dc:creator>
     </item>
     <item>
       <title>Ponoči bo snežilo, ponekod tudi do 25 centimetrov. Kje se obeta najdebelejša snežna odeja?</title>
       <link>https://ptujinfo.com/novica/slovenija/ponoci-bo-snezilo-ponekod-tudi-do-25-centimetrov-kje-se-obeta-najdebelejsa-snezna-odeja/460202</link>
-      <description>&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/25/sneg%20%281%29.jpg?h=19f14c2c" /&gt;&lt;p&gt;Ponoči bo snežilo, ponekod tudi do 25 centimetrov. Kje se obeta najdebelejša snežna odeja?&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/slovenija/ponoci-bo-snezilo-ponekod-tudi-do-25-centimetrov-kje-se-obeta-najdebelejsa-snezna-odeja/460202"&gt;Preberi celotno novico&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/25/sneg%20%281%29.jpg?h=19f14c2c" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;V četrtek zjutraj bo marsikje po Sloveniji snežilo do nižin. Sneg bo moker in težak, zato meteorologi opozarjajo na možnost snegoloma in otežene razmere v prometu.&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/slovenija/ponoci-bo-snezilo-ponekod-tudi-do-25-centimetrov-kje-se-obeta-najdebelejsa-snezna-odeja/460202"&gt;Preberi celotno novico na Ptujinfo&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://ptujinfo.com/novica/slovenija/ponoci-bo-snezilo-ponekod-tudi-do-25-centimetrov-kje-se-obeta-najdebelejsa-snezna-odeja/460202</guid>
       <category>slovenija</category>
+      <pubDate>Wed, 25 Nov 2026 10:15:09 +0100</pubDate>
+      <dc:creator>Ptujinfo</dc:creator>
     </item>
     <item>
       <title>S solzami v očeh opozorila na krajo pridelkov nedaleč stran od Ptuja: »Naša njiva ni trgovina, kjer si lahko vsak vzame, kar želi«</title>
       <link>https://ptujinfo.com/novica/lokalno/s-solzami-v-oceh-opozorila-na-krajo-pridelkov-nedalec-stran-od-ptuja-nasa-njiva-ni-trgovina-kjer-si-lahko-vsak-vzame-kar-zeli/460180</link>
-      <description>&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/25/854480968_1907654784007525_5791678439821607779_n.jpg?h=404059e4" /&gt;&lt;p&gt;S solzami v očeh opozorila na krajo pridelkov nedaleč stran od Ptuja: »Naša njiva ni trgovina, kjer si lahko vsak vzame, kar želi«&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/lokalno/s-solzami-v-oceh-opozorila-na-krajo-pridelkov-nedalec-stran-od-ptuja-nasa-njiva-ni-trgovina-kjer-si-lahko-vsak-vzame-kar-zeli/460180"&gt;Preberi celotno novico&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/25/854480968_1907654784007525_5791678439821607779_n.jpg?h=404059e4" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;Na biodinamični kmetiji Kelenc s Stojncev se soočajo s krajami zelenjave z njiv. Zaradi vse večje škode so se ponovno obrnili na policijo, v prihodnje pa nameravajo vzpostaviti tudi videonadzor.&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/lokalno/s-solzami-v-oceh-opozorila-na-krajo-pridelkov-nedalec-stran-od-ptuja-nasa-njiva-ni-trgovina-kjer-si-lahko-vsak-vzame-kar-zeli/460180"&gt;Preberi celotno novico na Ptujinfo&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://ptujinfo.com/novica/lokalno/s-solzami-v-oceh-opozorila-na-krajo-pridelkov-nedalec-stran-od-ptuja-nasa-njiva-ni-trgovina-kjer-si-lahko-vsak-vzame-kar-zeli/460180</guid>
       <category>lokalno</category>
+      <pubDate>Wed, 25 Nov 2026 09:28:01 +0100</pubDate>
+      <dc:creator>Nina Držaj</dc:creator>
     </item>
     <item>
       <title>Boste v nedeljo odsotni? Pred drugim krogom preverite, kdaj lahko oddate glas</title>
       <link>https://ptujinfo.com/novica/politika/boste-v-nedeljo-odsotni-pred-drugim-krogom-preverite-kdaj-lahko-oddate-glas/460161</link>
-      <description>&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/25/volitve-4.jpg?h=c673cd1c" /&gt;&lt;p&gt;Boste v nedeljo odsotni? Pred drugim krogom preverite, kdaj lahko oddate glas&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/politika/boste-v-nedeljo-odsotni-pred-drugim-krogom-preverite-kdaj-lahko-oddate-glas/460161"&gt;Preberi celotno novico&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/25/volitve-4.jpg?h=c673cd1c" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;Pred drugim krogom lokalnih volitev zadnji dan za prijavo glasovanja na domu.&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/politika/boste-v-nedeljo-odsotni-pred-drugim-krogom-preverite-kdaj-lahko-oddate-glas/460161"&gt;Preberi celotno novico na Ptujinfo&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://ptujinfo.com/novica/politika/boste-v-nedeljo-odsotni-pred-drugim-krogom-preverite-kdaj-lahko-oddate-glas/460161</guid>
       <category>politika</category>
+      <pubDate>Wed, 25 Nov 2026 08:28:09 +0100</pubDate>
+      <dc:creator>STA</dc:creator>
     </item>
     <item>
       <title>Zagorelo pri Ormožu, posredovali domači gasilci</title>
       <link>https://ptujinfo.com/novica/kronika/zagorelo-pri-ormozu-posredovali-domaci-gasilci/460158</link>
-      <description>&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/25/pexels-plato-terentev-3804555-5911760.jpg?h=a141e9ea" /&gt;&lt;p&gt;Zagorelo pri Ormožu, posredovali domači gasilci&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/kronika/zagorelo-pri-ormozu-posredovali-domaci-gasilci/460158"&gt;Preberi celotno novico&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/25/pexels-plato-terentev-3804555-5911760.jpg?h=a141e9ea" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;Gasilci so požar pogasili in okolico pregledali s termovizijsko kamero.&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/kronika/zagorelo-pri-ormozu-posredovali-domaci-gasilci/460158"&gt;Preberi celotno novico na Ptujinfo&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://ptujinfo.com/novica/kronika/zagorelo-pri-ormozu-posredovali-domaci-gasilci/460158</guid>
       <category>kronika</category>
+      <pubDate>Wed, 25 Nov 2026 08:16:33 +0100</pubDate>
+      <dc:creator>Ptujinfo</dc:creator>
     </item>
     <item>
       <title>Enoosne kmetijske prikolice, trije modeli za učinkovitejše delo na kmetiji</title>
       <link>https://ptujinfo.com/novica/scena/enoosne-kmetijske-prikolice-trije-modeli-za-ucinkovitejse-delo-na-kmetiji/460140</link>
-      <description>&lt;img src="https://ptujinfo.com/s3/files/styles/768x440/public/slike/naslovne/2026/11/24/Three%20Green%20Farm%20Trailers%20in%20a%20Field_0.jpg?h=c8808067" /&gt;&lt;p&gt;Enoosne kmetijske prikolice, trije modeli za učinkovitejše delo na kmetiji&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/scena/enoosne-kmetijske-prikolice-trije-modeli-za-ucinkovitejse-delo-na-kmetiji/460140"&gt;Preberi celotno novico&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/24/Three%20Green%20Farm%20Trailers%20in%20a%20Field_0.jpg?h=c8808067" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;Pri izbiri ustreznega modela so pomembni velikost kesona, vrsta tovora in zmogljivost traktorja.&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/scena/enoosne-kmetijske-prikolice-trije-modeli-za-ucinkovitejse-delo-na-kmetiji/460140"&gt;Preberi celotno novico na Ptujinfo&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://ptujinfo.com/novica/scena/enoosne-kmetijske-prikolice-trije-modeli-za-ucinkovitejse-delo-na-kmetiji/460140</guid>
       <category>scena</category>
+      <pubDate>Wed, 25 Nov 2026 04:01:59 +0100</pubDate>
+      <dc:creator>Oglasni prispevek</dc:creator>
     </item>
     <item>
       <title>Kako posluje kidričevski velikan? Prihodki rastejo, vlagajo milijone in iščejo nove delavce</title>
       <link>https://ptujinfo.com/novica/gospodarstvo/kako-posluje-kidricevski-velikan-prihodki-rastejo-vlagajo-milijone-iscejo-nove-delavce/459999</link>
-      <description>&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/24/talum-iz-zraka.jpg?h=c673cd1c" /&gt;&lt;p&gt;Kako posluje kidričevski velikan? Prihodki rastejo, vlagajo milijone in iščejo nove delavce&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/gospodarstvo/kako-posluje-kidricevski-velikan-prihodki-rastejo-vlagajo-milijone-iscejo-nove-delavce/459999"&gt;Preberi celotno novico&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/24/talum-iz-zraka.jpg?h=c673cd1c" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;V kidričevskem Talumu letošnje poslovanje ocenjujejo kot dobro. Pričakujejo skoraj 20-odstotno rast prihodkov in 3,9 milijona evrov čistega dobička, prihodnje leto pa bodo za investicije namenili več kot 21 milijonov evrov.&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/gospodarstvo/kako-posluje-kidricevski-velikan-prihodki-rastejo-vlagajo-milijone-iscejo-nove-delavce/459999"&gt;Preberi celotno novico na Ptujinfo&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://ptujinfo.com/novica/gospodarstvo/kako-posluje-kidricevski-velikan-prihodki-rastejo-vlagajo-milijone-iscejo-nove-delavce/459999</guid>
       <category>gospodarstvo</category>
+      <pubDate>Wed, 25 Nov 2026 04:01:41 +0100</pubDate>
+      <dc:creator>Nina Držaj</dc:creator>
     </item>
     <item>
       <title>Ljubezenski preobrat za vodnarje, strelci bodo preteklost pustili za seboj</title>
       <link>https://ptujinfo.com/novica/scena/ljubezenski-preobrat-za-vodnarje-strelci-bodo-preteklost-pustili-za-seboj/460010</link>
-      <description>&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/24/pexels-cold-1284028_1280.jpg?h=1ba80e5e" /&gt;&lt;p&gt;Ljubezenski preobrat za vodnarje, strelci bodo preteklost pustili za seboj&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/scena/ljubezenski-preobrat-za-vodnarje-strelci-bodo-preteklost-pustili-za-seboj/460010"&gt;Preberi celotno novico&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/24/pexels-cold-1284028_1280.jpg?h=1ba80e5e" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;Preverite, kaj zvezde napovedujejo za sredo, 25. novembra 2026.&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/scena/ljubezenski-preobrat-za-vodnarje-strelci-bodo-preteklost-pustili-za-seboj/460010"&gt;Preberi celotno novico na Ptujinfo&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://ptujinfo.com/novica/scena/ljubezenski-preobrat-za-vodnarje-strelci-bodo-preteklost-pustili-za-seboj/460010</guid>
       <category>scena</category>
+      <pubDate>Wed, 25 Nov 2026 04:01:03 +0100</pubDate>
+      <dc:creator>Sobotainfo</dc:creator>
     </item>
     <item>
       <title>FOTO: Tako bo videti nova milijonska športna pridobitev v Podlehniku</title>
       <link>https://ptujinfo.com/novica/gospodarstvo/foto-tako-bo-videti-nova-milijonska-sportna-pridobitev-v-podlehniku/460008</link>
-      <description>&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/24/921423810_1570826878397768_4979764991213417262_n.jpg?h=ddc58dd3" /&gt;&lt;p&gt;FOTO: Tako bo videti nova milijonska športna pridobitev v Podlehniku&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/gospodarstvo/foto-tako-bo-videti-nova-milijonska-sportna-pridobitev-v-podlehniku/460008"&gt;Preberi celotno novico&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/24/921423810_1570826878397768_4979764991213417262_n.jpg?h=ddc58dd3" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;Gradnja medgeneracijskega športnega objekta v Podlehniku se približuje zaključku. Objekt že dobiva svojo končno podobo.&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/gospodarstvo/foto-tako-bo-videti-nova-milijonska-sportna-pridobitev-v-podlehniku/460008"&gt;Preberi celotno novico na Ptujinfo&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://ptujinfo.com/novica/gospodarstvo/foto-tako-bo-videti-nova-milijonska-sportna-pridobitev-v-podlehniku/460008</guid>
       <category>gospodarstvo</category>
+      <pubDate>Wed, 25 Nov 2026 04:01:01 +0100</pubDate>
+      <dc:creator>Ptujinfo</dc:creator>
     </item>
     <item>
       <title>Zaradi koncerta Fehtarjev na Ptuju popolna zapora Rajšpove ulice</title>
       <link>https://ptujinfo.com/novica/lokalno/zaradi-koncerta-fehtarjev-na-ptuju-popolna-zapora-rajspove-ulice/460005</link>
-      <description>&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/24/2026-08-10_Delo_Ljubljanska_OsimZan_19.jpg?h=4997dc06" /&gt;&lt;p&gt;Zaradi koncerta Fehtarjev na Ptuju popolna zapora Rajšpove ulice&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/lokalno/zaradi-koncerta-fehtarjev-na-ptuju-popolna-zapora-rajspove-ulice/460005"&gt;Preberi celotno novico&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/24/2026-08-10_Delo_Ljubljanska_OsimZan_19.jpg?h=4997dc06" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;Na Ptuju bo zaradi decembrskega koncerta priljubljene glasbene skupine Fehtarji začasno spremenjen prometni režim.&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/lokalno/zaradi-koncerta-fehtarjev-na-ptuju-popolna-zapora-rajspove-ulice/460005"&gt;Preberi celotno novico na Ptujinfo&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://ptujinfo.com/novica/lokalno/zaradi-koncerta-fehtarjev-na-ptuju-popolna-zapora-rajspove-ulice/460005</guid>
       <category>lokalno</category>
+      <pubDate>Wed, 25 Nov 2026 04:01:00 +0100</pubDate>
+      <dc:creator>Ptujinfo</dc:creator>
     </item>
     <item>
       <title>Slovenski as navdušil na Norveškem, Domen Prevc tik pod vrhom</title>
       <link>https://ptujinfo.com/novica/sport/slovenski-navdusil-na-norveskem-domen-prevc-tik-pod-vrhom/459558</link>
-      <description>&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/22/726660373_1333928348243635_7662184383370120255_n.jpg?h=fac34e5c" /&gt;&lt;p&gt;Slovenski as navdušil na Norveškem, Domen Prevc tik pod vrhom&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/sport/slovenski-navdusil-na-norveskem-domen-prevc-tik-pod-vrhom/459558"&gt;Preberi celotno novico&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/22/726660373_1333928348243635_7662184383370120255_n.jpg?h=fac34e5c" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;Slovenski as navdušil na Norveškem, Domen Prevc tik pod vrhom&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/sport/slovenski-navdusil-na-norveskem-domen-prevc-tik-pod-vrhom/459558"&gt;Preberi celotno novico na Ptujinfo&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://ptujinfo.com/novica/sport/slovenski-navdusil-na-norveskem-domen-prevc-tik-pod-vrhom/459558</guid>
       <category>sport</category>
     </item>
     <item>
       <title>Veter je Domnu Prevcu v Lillehammerju prekrižal načrte, skočil je le 95 metrov</title>
       <link>https://ptujinfo.com/novica/sport/veter-je-domnu-prevcu-v-lillehammerju-prekrizal-nacrte-skocil-je-le-95-metrov/459392</link>
-      <description>&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/21/1795284706928-3gcrjl.png?h=a1e1a043" /&gt;&lt;p&gt;Veter je Domnu Prevcu v Lillehammerju prekrižal načrte, skočil je le 95 metrov&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/sport/veter-je-domnu-prevcu-v-lillehammerju-prekrizal-nacrte-skocil-je-le-95-metrov/459392"&gt;Preberi celotno novico&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/21/1795284706928-3gcrjl.png?h=a1e1a043" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;Veter je Domnu Prevcu v Lillehammerju prekrižal načrte, skočil je le 95 metrov&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/sport/veter-je-domnu-prevcu-v-lillehammerju-prekrizal-nacrte-skocil-je-le-95-metrov/459392"&gt;Preberi celotno novico na Ptujinfo&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://ptujinfo.com/novica/sport/veter-je-domnu-prevcu-v-lillehammerju-prekrizal-nacrte-skocil-je-le-95-metrov/459392</guid>
       <category>sport</category>
     </item>
     <item>
       <title>Jezerniki nepričakovano pokleknili proti eni najslabših ekip lige, Dončić doživel najslabši večer sezone</title>
       <link>https://ptujinfo.com/novica/sport/jezerniki-nepricakovano-pokleknili-proti-eni-najslabsih-ekip-lige-doncic-dozivel-najslabsi-vecer-sezone/458939</link>
-      <description>&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/19/622127557_18560067703021875_983873386513857390_n%20%281%29.jpg?h=c673cd1c" /&gt;&lt;p&gt;Jezerniki nepričakovano pokleknili proti eni najslabših ekip lige, Dončić doživel najslabši večer sezone&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/sport/jezerniki-nepricakovano-pokleknili-proti-eni-najslabsih-ekip-lige-doncic-dozivel-najslabsi-vecer-sezone/458939"&gt;Preberi celotno novico&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/19/622127557_18560067703021875_983873386513857390_n%20%281%29.jpg?h=c673cd1c" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;Jezerniki nepričakovano pokleknili proti eni najslabših ekip lige, Dončić doživel najslabši večer sezone&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/sport/jezerniki-nepricakovano-pokleknili-proti-eni-najslabsih-ekip-lige-doncic-dozivel-najslabsi-vecer-sezone/458939"&gt;Preberi celotno novico na Ptujinfo&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://ptujinfo.com/novica/sport/jezerniki-nepricakovano-pokleknili-proti-eni-najslabsih-ekip-lige-doncic-dozivel-najslabsi-vecer-sezone/458939</guid>
       <category>sport</category>
     </item>
     <item>
       <title>Dončić z Lakersi do nove zmage, odločale so zadnje sekunde</title>
       <link>https://ptujinfo.com/novica/sport/doncic-z-lakersi-do-nove-zmage-odlocale-so-zadnje-sekunde/458731</link>
-      <description>&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/18/screenshot-2025-03-23-at-08-1-1.webp?h=c673cd1c" /&gt;&lt;p&gt;Dončić z Lakersi do nove zmage, odločale so zadnje sekunde&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/sport/doncic-z-lakersi-do-nove-zmage-odlocale-so-zadnje-sekunde/458731"&gt;Preberi celotno novico&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/18/screenshot-2025-03-23-at-08-1-1.webp?h=c673cd1c" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;Dončić z Lakersi do nove zmage, odločale so zadnje sekunde&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/sport/doncic-z-lakersi-do-nove-zmage-odlocale-so-zadnje-sekunde/458731"&gt;Preberi celotno novico na Ptujinfo&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://ptujinfo.com/novica/sport/doncic-z-lakersi-do-nove-zmage-odlocale-so-zadnje-sekunde/458731</guid>
       <category>sport</category>
     </item>
     <item>
       <title>Drama na ptujskem sodišču: Zaradi groženj evakuirali zaposlene, policisti pregledali prostore</title>
       <link>https://ptujinfo.com/novica/kronika/drama-na-ptujskem-sodiscu-zaradi-grozenj-evakuirali-zaposlene-policisti-pregledali-prostore/459996</link>
-      <description>&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/24/sodisce.jpg?h=c8808067" /&gt;&lt;p&gt;Drama na ptujskem sodišču: Zaradi groženj evakuirali zaposlene, policisti pregledali prostore&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/kronika/drama-na-ptujskem-sodiscu-zaradi-grozenj-evakuirali-zaposlene-policisti-pregledali-prostore/459996"&gt;Preberi celotno novico&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/24/sodisce.jpg?h=c8808067" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;Drama na ptujskem sodišču: Zaradi groženj evakuirali zaposlene, policisti pregledali prostore&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/kronika/drama-na-ptujskem-sodiscu-zaradi-grozenj-evakuirali-zaposlene-policisti-pregledali-prostore/459996"&gt;Preberi celotno novico na Ptujinfo&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://ptujinfo.com/novica/kronika/drama-na-ptujskem-sodiscu-zaradi-grozenj-evakuirali-zaposlene-policisti-pregledali-prostore/459996</guid>
       <category>kronika</category>
     </item>
     <item>
       <title>Ponoči zagorelo na Štajerskem, gasilci morali evakuirati stanovalce</title>
       <link>https://ptujinfo.com/novica/kronika/ponoci-zagorelo-na-stajerskem-gasilci-morali-evakuirati-stanovalce/459867</link>
-      <description>&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/24/fire-165575_1280.jpg?h=c673cd1c" /&gt;&lt;p&gt;Ponoči zagorelo na Štajerskem, gasilci morali evakuirati stanovalce&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/kronika/ponoci-zagorelo-na-stajerskem-gasilci-morali-evakuirati-stanovalce/459867"&gt;Preberi celotno novico&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/24/fire-165575_1280.jpg?h=c673cd1c" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;Ponoči zagorelo na Štajerskem, gasilci morali evakuirati stanovalce&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/kronika/ponoci-zagorelo-na-stajerskem-gasilci-morali-evakuirati-stanovalce/459867"&gt;Preberi celotno novico na Ptujinfo&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://ptujinfo.com/novica/kronika/ponoci-zagorelo-na-stajerskem-gasilci-morali-evakuirati-stanovalce/459867</guid>
       <category>kronika</category>
     </item>
     <item>
       <title>FOTO in VIDEO: Gajšek in Širec znova iz oči v oči. Kje se njuni pogledi na prihodnost Ptuja razhajajo?</title>
       <link>https://ptujinfo.com/novica/politika/foto-video-gajsek-sirec-znova-iz-oci-v-oci-kje-se-njuni-pogledi-na-prihodnost-ptuja-razhajajo/459945</link>
-      <description>&lt;p&gt;FOTO in VIDEO: Gajšek in Širec znova iz oči v oči. Kje se njuni pogledi na prihodnost Ptuja razhajajo?&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/politika/foto-video-gajsek-sirec-znova-iz-oci-v-oci-kje-se-njuni-pogledi-na-prihodnost-ptuja-razhajajo/459945"&gt;Preberi celotno novico&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;FOTO in VIDEO: Gajšek in Širec znova iz oči v oči. Kje se njuni pogledi na prihodnost Ptuja razhajajo?&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/politika/foto-video-gajsek-sirec-znova-iz-oci-v-oci-kje-se-njuni-pogledi-na-prihodnost-ptuja-razhajajo/459945"&gt;Preberi celotno novico na Ptujinfo&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://ptujinfo.com/novica/politika/foto-video-gajsek-sirec-znova-iz-oci-v-oci-kje-se-njuni-pogledi-na-prihodnost-ptuja-razhajajo/459945</guid>
       <category>politika</category>
     </item>
     <item>
       <title>V Avstriji višje plače v več panogah, zvišanje do 3,6 odstotka</title>
       <link>https://ptujinfo.com/novica/gospodarstvo/v-avstriji-visje-place-v-vec-panogah-zvisanje-do-36-odstotka/460052</link>
-      <description>&lt;p&gt;V Avstriji višje plače v več panogah, zvišanje do 3,6 odstotka&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/gospodarstvo/v-avstriji-visje-place-v-vec-panogah-zvisanje-do-36-odstotka/460052"&gt;Preberi celotno novico&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;V Avstriji višje plače v več panogah, zvišanje do 3,6 odstotka&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/gospodarstvo/v-avstriji-visje-place-v-vec-panogah-zvisanje-do-36-odstotka/460052"&gt;Preberi celotno novico na Ptujinfo&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://ptujinfo.com/novica/gospodarstvo/v-avstriji-visje-place-v-vec-panogah-zvisanje-do-36-odstotka/460052</guid>
       <category>gospodarstvo</category>
     </item>
     <item>
       <title>Nov most čez Dravo, severna obvoznica in lahka železnica: Kaj za Ptuj razkrivajo prostorski načrti Podravja?</title>
       <link>https://ptujinfo.com/novica/gospodarstvo/nov-most-cez-dravo-severna-obvoznica-lahka-zeleznica-kaj-za-ptuj-razkrivajo-prostorski-nacrti-podravja/459985</link>
-      <description>&lt;p&gt;Nov most čez Dravo, severna obvoznica in lahka železnica: Kaj za Ptuj razkrivajo prostorski načrti Podravja?&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/gospodarstvo/nov-most-cez-dravo-severna-obvoznica-lahka-zeleznica-kaj-za-ptuj-razkrivajo-prostorski-nacrti-podravja/459985"&gt;Preberi celotno novico&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Nov most čez Dravo, severna obvoznica in lahka železnica: Kaj za Ptuj razkrivajo prostorski načrti Podravja?&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/gospodarstvo/nov-most-cez-dravo-severna-obvoznica-lahka-zeleznica-kaj-za-ptuj-razkrivajo-prostorski-nacrti-podravja/459985"&gt;Preberi celotno novico na Ptujinfo&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://ptujinfo.com/novica/gospodarstvo/nov-most-cez-dravo-severna-obvoznica-lahka-zeleznica-kaj-za-ptuj-razkrivajo-prostorski-nacrti-podravja/459985</guid>
       <category>gospodarstvo</category>
     </item>
     <item>
       <title>Skrivnosti prihajajo na dan, bobrova polna luna bo posebej pretresla ta znamenja</title>
       <link>https://ptujinfo.com/novica/scena/skrivnosti-prihajajo-na-dan-bobrova-polna-luna-bo-posebej-pretresla-ta-znamenja/459791</link>
-      <description>&lt;p&gt;Skrivnosti prihajajo na dan, bobrova polna luna bo posebej pretresla ta znamenja&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/scena/skrivnosti-prihajajo-na-dan-bobrova-polna-luna-bo-posebej-pretresla-ta-znamenja/459791"&gt;Preberi celotno novico&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Skrivnosti prihajajo na dan, bobrova polna luna bo posebej pretresla ta znamenja&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/scena/skrivnosti-prihajajo-na-dan-bobrova-polna-luna-bo-posebej-pretresla-ta-znamenja/459791"&gt;Preberi celotno novico na Ptujinfo&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://ptujinfo.com/novica/scena/skrivnosti-prihajajo-na-dan-bobrova-polna-luna-bo-posebej-pretresla-ta-znamenja/459791</guid>
       <category>scena</category>
     </item>
     <item>
       <title>Čakovec – v srcu adventa: čas za srečanja, kraj za spomine</title>
       <link>https://ptujinfo.com/novica/scena/cakovec-v-srcu-adventa-cas-za-srecanja-kraj-za-spomine/459624</link>
-      <description>&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/22/sveti-nikola-2025-50_0.jpg?h=ac778ff2" /&gt;&lt;p&gt;Čakovec – v srcu adventa: čas za srečanja, kraj za spomine&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/scena/cakovec-v-srcu-adventa-cas-za-srecanja-kraj-za-spomine/459624"&gt;Preberi celotno novico&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Čakovec – v srcu adventa: čas za srečanja, kraj za spomine&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/scena/cakovec-v-srcu-adventa-cas-za-srecanja-kraj-za-spomine/459624"&gt;Preberi celotno novico na Ptujinfo&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://ptujinfo.com/novica/scena/cakovec-v-srcu-adventa-cas-za-srecanja-kraj-za-spomine/459624</guid>
       <category>scena</category>
     </item>
     <item>
       <title>Trgovci vabijo z velikimi popusti, pred nakupom bodite pozorni na to številko na cenovki</title>
       <link>https://ptujinfo.com/novica/slovenija/trgovci-vabijo-z-velikimi-popusti-pred-nakupom-bodite-pozorni-na-stevilko-na-cenovki/460134</link>
-      <description>&lt;p&gt;Trgovci vabijo z velikimi popusti, pred nakupom bodite pozorni na to številko na cenovki&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/slovenija/trgovci-vabijo-z-velikimi-popusti-pred-nakupom-bodite-pozorni-na-stevilko-na-cenovki/460134"&gt;Preberi celotno novico&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Trgovci vabijo z velikimi popusti, pred nakupom bodite pozorni na to številko na cenovki&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/slovenija/trgovci-vabijo-z-velikimi-popusti-pred-nakupom-bodite-pozorni-na-stevilko-na-cenovki/460134"&gt;Preberi celotno novico na Ptujinfo&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://ptujinfo.com/novica/slovenija/trgovci-vabijo-z-velikimi-popusti-pred-nakupom-bodite-pozorni-na-stevilko-na-cenovki/460134</guid>
       <category>slovenija</category>
     </item>
     <item>
       <title>Bo Slovenija dobila enodnevne vinjete? Evropska komisija poslala uradni opomin</title>
       <link>https://ptujinfo.com/novica/slovenija/bo-slovenija-dobila-enodnevne-vinjete-evropska-komisija-poslala-uradni-opomin/460013</link>
-      <description>&lt;p&gt;Bo Slovenija dobila enodnevne vinjete? Evropska komisija poslala uradni opomin&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/slovenija/bo-slovenija-dobila-enodnevne-vinjete-evropska-komisija-poslala-uradni-opomin/460013"&gt;Preberi celotno novico&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Bo Slovenija dobila enodnevne vinjete? Evropska komisija poslala uradni opomin&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/slovenija/bo-slovenija-dobila-enodnevne-vinjete-evropska-komisija-poslala-uradni-opomin/460013"&gt;Preberi celotno novico na Ptujinfo&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://ptujinfo.com/novica/slovenija/bo-slovenija-dobila-enodnevne-vinjete-evropska-komisija-poslala-uradni-opomin/460013</guid>
       <category>slovenija</category>
     </item>
     <item>
       <title>Po carini še nova pristojbina, za katere pakete boste plačali več?</title>
       <link>https://ptujinfo.com/novica/globalno/po-carini-se-nova-pristojbina-za-katere-pakete-boste-placali-vec/458892</link>
-      <description>&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/18/pexels-polina-tankilevitch-4440887.jpg?h=c6980913" /&gt;&lt;p&gt;Po carini še nova pristojbina, za katere pakete boste plačali več?&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/globalno/po-carini-se-nova-pristojbina-za-katere-pakete-boste-placali-vec/458892"&gt;Preberi celotno novico&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/18/pexels-polina-tankilevitch-4440887.jpg?h=c6980913" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;Po carini še nova pristojbina, za katere pakete boste plačali več?&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/globalno/po-carini-se-nova-pristojbina-za-katere-pakete-boste-placali-vec/458892"&gt;Preberi celotno novico na Ptujinfo&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://ptujinfo.com/novica/globalno/po-carini-se-nova-pristojbina-za-katere-pakete-boste-placali-vec/458892</guid>
       <category>globalno</category>
     </item>
     <item>
       <title>Eurojackpot prinesel bogastvo, dva igralca čez noč postala milijonarja</title>
       <link>https://ptujinfo.com/novica/globalno/eurojackpot-prinesel-bogastvo-dva-igralca-cez-noc-postala-milijonarja/458826</link>
-      <description>&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/18/eurojackpot-listki_0.webp?h=c673cd1c" /&gt;&lt;p&gt;Eurojackpot prinesel bogastvo, dva igralca čez noč postala milijonarja&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/globalno/eurojackpot-prinesel-bogastvo-dva-igralca-cez-noc-postala-milijonarja/458826"&gt;Preberi celotno novico&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/18/eurojackpot-listki_0.webp?h=c673cd1c" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;Eurojackpot prinesel bogastvo, dva igralca čez noč postala milijonarja&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/globalno/eurojackpot-prinesel-bogastvo-dva-igralca-cez-noc-postala-milijonarja/458826"&gt;Preberi celotno novico na Ptujinfo&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://ptujinfo.com/novica/globalno/eurojackpot-prinesel-bogastvo-dva-igralca-cez-noc-postala-milijonarja/458826</guid>
       <category>globalno</category>
     </item>
     <item>
       <title>Ste ga čutili? Jutranji potres prestrašil prebivalce</title>
       <link>https://ptujinfo.com/novica/globalno/ste-ga-cutili-jutranji-potres-prestrasil-prebivalce/458560</link>
-      <description>&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/17/cracks-1287495_1280.jpg?h=16625e5b" /&gt;&lt;p&gt;Ste ga čutili? Jutranji potres prestrašil prebivalce&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/globalno/ste-ga-cutili-jutranji-potres-prestrasil-prebivalce/458560"&gt;Preberi celotno novico&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/17/cracks-1287495_1280.jpg?h=16625e5b" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;Ste ga čutili? Jutranji potres prestrašil prebivalce&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/globalno/ste-ga-cutili-jutranji-potres-prestrasil-prebivalce/458560"&gt;Preberi celotno novico na Ptujinfo&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://ptujinfo.com/novica/globalno/ste-ga-cutili-jutranji-potres-prestrasil-prebivalce/458560</guid>
       <category>globalno</category>
     </item>
     <item>
       <title>Po letih ugibanj razkrili novega Jamesa Bonda</title>
       <link>https://ptujinfo.com/novica/globalno/po-letih-ugibanj-razkrili-novega-jamesa-bonda/458470</link>
-      <description>&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/16/pexels-alirezamani-wedding-team-233485225-35505716.jpg?h=fa5f4214" /&gt;&lt;p&gt;Po letih ugibanj razkrili novega Jamesa Bonda&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/globalno/po-letih-ugibanj-razkrili-novega-jamesa-bonda/458470"&gt;Preberi celotno novico&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/16/pexels-alirezamani-wedding-team-233485225-35505716.jpg?h=fa5f4214" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;Po letih ugibanj razkrili novega Jamesa Bonda&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/globalno/po-letih-ugibanj-razkrili-novega-jamesa-bonda/458470"&gt;Preberi celotno novico na Ptujinfo&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://ptujinfo.com/novica/globalno/po-letih-ugibanj-razkrili-novega-jamesa-bonda/458470</guid>
       <category>globalno</category>
     </item>
     <item>
       <title>Na Ptuju bodo podelili kulturna priznanja, znana so imena letošnjih nagrajenk</title>
       <link>https://ptujinfo.com/novica/kultura/na-ptuju-bodo-podelili-kulturna-priznanja-znana-so-imena-letosnjih-nagrajenk/459782</link>
-      <description>&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/23/MVZ_3525.jpg?h=3e43625b" /&gt;&lt;p&gt;Na Ptuju bodo podelili kulturna priznanja, znana so imena letošnjih nagrajenk&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/kultura/na-ptuju-bodo-podelili-kulturna-priznanja-znana-so-imena-letosnjih-nagrajenk/459782"&gt;Preberi celotno novico&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/23/MVZ_3525.jpg?h=3e43625b" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;Na Ptuju bodo podelili kulturna priznanja, znana so imena letošnjih nagrajenk&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/kultura/na-ptuju-bodo-podelili-kulturna-priznanja-znana-so-imena-letosnjih-nagrajenk/459782"&gt;Preberi celotno novico na Ptujinfo&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://ptujinfo.com/novica/kultura/na-ptuju-bodo-podelili-kulturna-priznanja-znana-so-imena-letosnjih-nagrajenk/459782</guid>
       <category>kultura</category>
     </item>
     <item>
       <title>Kdo si zasluži veliko oljenko? Ptuj zbira predloge za najvišje priznanje na področju kulture</title>
       <link>https://ptujinfo.com/novica/kultura/kdo-si-zasluzi-veliko-oljenko-ptuj-zbira-predloge-za-najvisje-priznanje-na-podrocju-kulture/459189</link>
-      <description>&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/20/489435876_1139963884840776_1492601526102076866_n.jpg?h=4521fff0" /&gt;&lt;p&gt;Kdo si zasluži veliko oljenko? Ptuj zbira predloge za najvišje priznanje na področju kulture&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/kultura/kdo-si-zasluzi-veliko-oljenko-ptuj-zbira-predloge-za-najvisje-priznanje-na-podrocju-kulture/459189"&gt;Preberi celotno novico&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/20/489435876_1139963884840776_1492601526102076866_n.jpg?h=4521fff0" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;Kdo si zasluži veliko oljenko? Ptuj zbira predloge za najvišje priznanje na področju kulture&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/kultura/kdo-si-zasluzi-veliko-oljenko-ptuj-zbira-predloge-za-najvisje-priznanje-na-podrocju-kulture/459189"&gt;Preberi celotno novico na Ptujinfo&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://ptujinfo.com/novica/kultura/kdo-si-zasluzi-veliko-oljenko-ptuj-zbira-predloge-za-najvisje-priznanje-na-podrocju-kulture/459189</guid>
       <category>kultura</category>
     </item>
     <item>
       <title>Ptujski muzej predstavil novi publikaciji, javnosti bodo prvič razkrili doslej neznane risbe Albina Lugariča</title>
       <link>https://ptujinfo.com/novica/kultura/ptujski-muzej-predstavil-novi-publikaciji-javnosti-bodo-prvic-razkrili-doslej-neznane-risbe-albina-lugarica/459064</link>
-      <description>&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/19/img_4496_1-1.jpg?h=c8808067" /&gt;&lt;p&gt;Ptujski muzej predstavil novi publikaciji, javnosti bodo prvič razkrili doslej neznane risbe Albina Lugariča&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/kultura/ptujski-muzej-predstavil-novi-publikaciji-javnosti-bodo-prvic-razkrili-doslej-neznane-risbe-albina-lugarica/459064"&gt;Preberi celotno novico&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/19/img_4496_1-1.jpg?h=c8808067" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;Ptujski muzej predstavil novi publikaciji, javnosti bodo prvič razkrili doslej neznane risbe Albina Lugariča&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/kultura/ptujski-muzej-predstavil-novi-publikaciji-javnosti-bodo-prvic-razkrili-doslej-neznane-risbe-albina-lugarica/459064"&gt;Preberi celotno novico na Ptujinfo&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://ptujinfo.com/novica/kultura/ptujski-muzej-predstavil-novi-publikaciji-javnosti-bodo-prvic-razkrili-doslej-neznane-risbe-albina-lugarica/459064</guid>
       <category>kultura</category>
     </item>
     <item>
       <title>V ptujski knjižnici ta teden brezplačen vpis, vodeni ogledi in številni zanimivi dogodki</title>
       <link>https://ptujinfo.com/novica/kultura/v-ptujski-knjiznici-ta-teden-brezplacen-vpis-vodeni-ogledi-stevilni-zanimivi-dogodki/458606</link>
-      <description>&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/17/knjiznica.jpg?h=c8808067" /&gt;&lt;p&gt;V ptujski knjižnici ta teden brezplačen vpis, vodeni ogledi in številni zanimivi dogodki&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/kultura/v-ptujski-knjiznici-ta-teden-brezplacen-vpis-vodeni-ogledi-stevilni-zanimivi-dogodki/458606"&gt;Preberi celotno novico&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://editorial.netmedia.si/s3fs-public/styles/768x440/public/slike/naslovne/2026/11/17/knjiznica.jpg?h=c8808067" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;V ptujski knjižnici ta teden brezplačen vpis, vodeni ogledi in številni zanimivi dogodki&lt;/p&gt;&lt;p&gt;&lt;a href="https://ptujinfo.com/novica/kultura/v-ptujski-knjiznici-ta-teden-brezplacen-vpis-vodeni-ogledi-stevilni-zanimivi-dogodki/458606"&gt;Preberi celotno novico na Ptujinfo&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://ptujinfo.com/novica/kultura/v-ptujski-knjiznici-ta-teden-brezplacen-vpis-vodeni-ogledi-stevilni-zanimivi-dogodki/458606</guid>
       <category>kultura</category>
     </item>
